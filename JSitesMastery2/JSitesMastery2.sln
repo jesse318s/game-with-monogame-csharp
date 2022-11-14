@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSitesMastery2", "JSitesMastery2\JSitesMastery2.csproj", "{11BECF23-21A6-4DEE-9956-06B5082F33B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11BECF23-21A6-4DEE-9956-06B5082F33B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BECF23-21A6-4DEE-9956-06B5082F33B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BECF23-21A6-4DEE-9956-06B5082F33B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BECF23-21A6-4DEE-9956-06B5082F33B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0DA46E-E2A5-4C52-B000-0A510D366FDF}
+	EndGlobalSection
+EndGlobal
